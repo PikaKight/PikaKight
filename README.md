@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Engineering Student at the University of Western Ontario. 
+I’m currently working on building up my programming languages and making a portfolio website.
+
+## Languages:
+
+### Know:
+1. Pyhton
+2. limited Html and Css
+
+### Learing:
+1. Java
+2. Javascript
