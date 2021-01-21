@@ -22,8 +22,9 @@ I’m currently working on building up my programming languages and making a por
 
 ### Know:
 1. Pyhton
-2. limited Html and Css
+2. limited Html, CSS and JS
 
 ### Learning:
 1. Java
 2. Javascript
+3. C
