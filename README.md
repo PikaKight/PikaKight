@@ -27,4 +27,3 @@ I’m currently working on building up my programming languages and making a por
 ### Learning:
 1. Java
 2. Javascript
-3. C
