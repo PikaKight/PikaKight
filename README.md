@@ -25,6 +25,8 @@ I’m currently working on building up my programming languages and making a por
 2. Java
 3. JS
 4. Html/CSS
+5. C/C++
 
 ### Learning:
-1. C++
+1. Machine Learning
+2. Game Development
