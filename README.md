@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software Engineering Student at the University of Western Ontario. 
-I’m currently working on building up my programming languages and making a portfolio website.
+My name is Marcus Tuen Muk, a passionate problem solver, gamer and singer. I am a Software Engineering Student at Western University with a focus on Full Stack Development, Game Development, Artificial Intelligence and Machine Learning. 
 
 ## Languages:
 
@@ -26,6 +25,18 @@ I’m currently working on building up my programming languages and making a por
 3. JS
 4. Html/CSS
 5. C/C++
+6. C#
+
+## Tools:
+
+1. Unity
+2. MongoDB
+3. GCP
+4. AWS
+5. Node.js
+6. React.js/Next.js
+7. Figma
+8. Audacity
 
 ### Learning:
 1. Machine Learning
